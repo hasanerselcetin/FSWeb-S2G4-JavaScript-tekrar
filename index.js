@@ -140,7 +140,6 @@ console.log(siralisayilar);
 tekraredensayilar=[];
 let tekrarSayilari={};
 
-
 for (let i = 0; i < sayilar.length; i++) {
   sayi = sayilar[i];
   if (tekrarSayilari[sayi] === undefined) {
@@ -156,6 +155,7 @@ for (const sayi in tekrarSayilari) {
   }
 }
 console.log(tekraredensayilar);
+
 
 
 
