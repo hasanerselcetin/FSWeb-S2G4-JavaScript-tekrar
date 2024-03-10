@@ -158,8 +158,6 @@ console.log(tekraredensayilar);
 
 
 
-
-
 function sa() {
   console.log("Kodlar çalışıyor");
   return "as";
